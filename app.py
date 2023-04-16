@@ -4,7 +4,7 @@ import pickle
  
 import numpy as np
  
-from statsmodels.tsa.statespace.sarimax import SARIMAX
+
 model=pickle.load(open('pipe.pkl','rb'))
 df=pickle.load(open('df.pkl','rb'))
 
