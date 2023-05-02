@@ -14,6 +14,13 @@ Web APP: Streamlit
 
 Algorithm Used : ARIMA, SARIMA 
 
+Stationarity test : Augmented Dickey-Fuller
+
+p-value: 0.991880
+ADF Statistic: 0.8153688792060463
+Critical Values: {'1%': -3.4816817173418295, '5%': -2.8840418343195267, '10%': -2.578770059171598}
+NON Stationary
+
 
 Additive Session Decomposition : 
 
@@ -38,12 +45,6 @@ Model Prediction Using SARIMA:
 ![3](https://user-images.githubusercontent.com/121451346/235794948-afa0fa79-1968-4630-8b8e-5e3f5f3a2728.jpg)
 
 
-Stationarity test : Augmented Dickey-Fuller
-
-p-value: 0.991880
-ADF Statistic: 0.8153688792060463
-Critical Values: {'1%': -3.4816817173418295, '5%': -2.8840418343195267, '10%': -2.578770059171598}
-NON Stationary
 
 
 
